@@ -5,6 +5,7 @@ public class FirstClass {
         System.out.println("helloproject");
         System.out.println("helloproject");
         System.out.println("hello");
+        System.out.println("12");
     }
 
 }
