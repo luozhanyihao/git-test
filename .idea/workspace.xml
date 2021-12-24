@@ -73,7 +73,21 @@
       <option name="project" value="LOCAL" />
       <updated>1640330539606</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="user类">
+      <created>1640330965819</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1640330965819</updated>
+    </task>
+    <task id="LOCAL-00005" summary="people类">
+      <created>1640331148396</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1640331148396</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,13 +97,14 @@
     <MESSAGE value="提交user" />
     <MESSAGE value="删除idea" />
     <MESSAGE value="user类" />
-    <option name="LAST_COMMIT_MESSAGE" value="user类" />
+    <MESSAGE value="people类" />
+    <option name="LAST_COMMIT_MESSAGE" value="people类" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1640330538792">
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1640331147604">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1640330538792" />
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1640331147604" />
     <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1640329252703">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -102,10 +117,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1640330479400" />
-    <state x="361" y="0" key="Vcs.Push.Dialog.v2" timestamp="1640330627801">
+    <state x="361" y="0" key="Vcs.Push.Dialog.v2" timestamp="1640331150996">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="0" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1640330627801" />
+    <state x="361" y="0" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1640331150996" />
     <state x="93" y="93" width="1350" height="678" key="git4idea.log.GitShowExternalLogAction" timestamp="1640329269895">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
