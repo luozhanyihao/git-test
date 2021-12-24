@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85e5c5b6-88c4-47e9-a31d-e160d8a01496" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="luozhan" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+  </component>
+  <component name="ProjectId" id="22im0SL3fOyPUII7dcroAMegWxm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85e5c5b6-88c4-47e9-a31d-e160d8a01496" name="Default Changelist" comment="" />
+      <created>1640328558397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640328558397</updated>
+      <workItem from="1640328559607" duration="710000" />
+      <workItem from="1640329283250" duration="1196000" />
+    </task>
+    <task id="LOCAL-00001" summary="提交user">
+      <created>1640329050340</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640329050340</updated>
+    </task>
+    <task id="LOCAL-00002" summary="删除idea">
+      <created>1640329551360</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1640329551360</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交user" />
+    <MESSAGE value="删除idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除idea" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1640329550560">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1640329550560" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1640329252703">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1640329252703" />
+    <state x="349" y="167" key="IDE.errors.dialog" timestamp="1640329458090">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="349" y="167" key="IDE.errors.dialog/0.0.1536.864@0.0.1536.864" timestamp="1640329458090" />
+    <state x="249" y="7" key="SettingsEditor" timestamp="1640330479400">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1640330479400" />
+    <state x="361" y="0" key="Vcs.Push.Dialog.v2" timestamp="1640329829581">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="0" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1640329829581" />
+    <state x="93" y="93" width="1350" height="678" key="git4idea.log.GitShowExternalLogAction" timestamp="1640329269895">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="93" y="93" width="1350" height="678" key="git4idea.log.GitShowExternalLogAction/0.0.1536.864@0.0.1536.864" timestamp="1640329269895" />
+    <state x="555" y="219" key="git4idea.merge.GitMergeDialog" timestamp="1640329772537">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="555" y="219" key="git4idea.merge.GitMergeDialog/0.0.1536.864@0.0.1536.864" timestamp="1640329772537" />
+    <state x="599" y="223" key="svn.repositoryBrowser" timestamp="1640329175414">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="599" y="223" key="svn.repositoryBrowser/0.0.1536.864@0.0.1536.864" timestamp="1640329175414" />
+  </component>
+</project>
